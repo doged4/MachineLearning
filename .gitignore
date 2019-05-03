@@ -1,0 +1,6 @@
+# Compiled source #
+###################
+*DS_Store
+*.bin
+*.vec
+1billion_word_vectors
